@@ -55,6 +55,8 @@
 1. Benefit
     - how likely is it that giving you feedback will materially impact your behavior? should be high
 
+[re:work. with google](https://rework.withgoogle.com/jp/guides/understanding-team-effectiveness/steps/help-teams-determine-their-needs/)
+
 ***
 
 ## One-on-ones
